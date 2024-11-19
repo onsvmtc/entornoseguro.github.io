@@ -1767,6 +1767,7 @@ html {
   left: 0;
   padding-left: 10px;
   padding-right: 50px;
+
 }
 [dir=rtl] .ng-select.ng-select-single .ng-select-container .ng-value-container .ng-input {
   padding-right: 10px;
